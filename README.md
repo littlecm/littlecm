@@ -7,6 +7,10 @@ Developer
 * 🌍  I'm based in United States
 * 🧠  I'm learning NextJS
 
+🚀 About Me
+
+I'm a web developer with a passion for enhancing automotive dealership websites. From creating sleek UI components to integrating complex APIs, I strive to provide a seamless digital experience for end-users. My recent focus is on Next.js, where I'm exploring new ways to boost website performance and create highly interactive apps.
+
 ### Skills
 
 
