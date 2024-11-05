@@ -54,12 +54,4 @@ I'm a web developer with extensive experience in automations, API integrations, 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=littlecm&show_icons=true&theme=material-palenight" alt="Chris's GitHub Stats" />
-</p>
-
----
-
 With a focus on clean code, efficient data handling, and modern design, I'm always excited to collaborate on innovative projects. Let's build something impactful together!
